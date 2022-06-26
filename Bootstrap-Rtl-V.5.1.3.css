@@ -17503,7 +17503,7 @@ display:inline-block!important;
 }
 
 .d-block{
-display:block!important;
+display:block;
 }
 
 .d-grid{
@@ -23280,7 +23280,7 @@ display:inline-block!important;
 }
 
 .d-sm-block{
-display:block!important;
+display:block;
 }
 
 .d-sm-grid{
@@ -29057,7 +29057,7 @@ display:inline-block!important;
 }
 
 .d-md-block{
-display:block!important;
+display:block;
 }
 
 .d-md-grid{
@@ -34834,7 +34834,7 @@ display:inline-block!important;
 }
 
 .d-lg-block{
-display:block!important;
+display:block;
 }
 
 .d-lg-grid{
@@ -40611,7 +40611,7 @@ display:inline-block!important;
 }
 
 .d-xl-block{
-display:block!important;
+display:block;
 }
 
 .d-xl-grid{
@@ -46389,7 +46389,7 @@ display:inline-block!important;
 }
 
 .d-xxl-block{
-display:block!important;
+display:block;
 }
 
 .d-xxl-grid{
